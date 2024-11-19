@@ -6,3 +6,4 @@ all:
 	gcc -o bin/heartyfs_rm src/op/heartyfs_rm.c;
 	gcc -o bin/heartyfs_read src/op/heartyfs_read.c;
 	gcc -o bin/heartyfs_write src/op/heartyfs_write.c;
+	gcc -o bin/heartyfs_peak src/op/heartyfs_peak.c;
